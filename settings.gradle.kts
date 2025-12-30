@@ -19,6 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "MyFirstApp_Level2"
+rootProject.name = "Level2_task4"
 include(":app")
- 
