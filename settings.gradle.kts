@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "level3_task6"
+rootProject.name = "level4_task8"
 include(":app")
